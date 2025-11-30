@@ -10,7 +10,7 @@
 
 ### **Módulo 5: Ordenando e Filtrando** (10 exercícios) ✅
 - [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%205%20Ordenando%20e%20filtrando%20dados.pdf)
-- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%205.sql)
+- [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%205)
 
 ### **Módulo 6: Funções de Agregação** (5 exercícios) ✅
 - [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%206%20-%20Fun%C3%A7%C3%B5es%20a.pdf)
