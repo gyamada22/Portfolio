@@ -1,3 +1,4 @@
+---Resoluçao 12
 --ex1
 declare @ecodesconto float = 0.95, @regdesconto float = 0.93 , @deldesconto float = 0.91
 
