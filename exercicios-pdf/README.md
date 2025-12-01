@@ -36,9 +36,9 @@
 - [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2011%20-%20Strings%20e%20Datas.pdf)
 - [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2011)
 
-### **Módulo 12: Funções Condicionais** (6 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 12: Funções Condicionais** (6 exercícios) ✅
+- [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2012%20-%20Fun%C3%A7%C3%B5es%20Condicionais.pdf)
+- [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2012)
 
 ### **Módulo 13: SQL Views** (6 exercícios) 
 - [📋 Lista de Exercícios]()
