@@ -1,3 +1,4 @@
+---Resoluçao 10
 -- Ex3
 DECLARE @nome VARCHAR(20), @data_nascimento DATETIME, @num_pets INT
 SET @nome = 'Andre'
