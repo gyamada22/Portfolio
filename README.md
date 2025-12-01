@@ -13,19 +13,19 @@
 
 ## 📚 SQL Server - Progresso Diário
 
-- [x] **1. Configuração do Ambiente** ✅ 27/11/2024
-- [x] **2. Conceitos Fundamentais** ✅ 27/11/2024
-- [x] **3. Instalação e Primeiros Passos** ✅ 27/11/2024
-- [x] **4. Introdução ao SQL** ✅ 27/11/2024
-- [x] **5. Ordenando e Filtrando Dados** ✅ 27/11/2024
-- [x] **6. Funções de Agregação** ✅ 28/11/2024
-- [x] **7. Criando Agrupamentos** ✅ 28/11/2024
-- [x] **8. JOINs** ✅ 29/11/2024
-- [x] **9. Group By + Joins** ✅ 29/11/2024
-- [x] **10. Variáveis** ✅ 30/11/2024
-- [x] **11. Manipulando Strings e Datas** ✅ 30/11/2024
-- [ ] **12. Funções Condicionais**
-- [ ] **13. SQL Views**
+- [x] **1. Configuração do Ambiente** ✅ 27/11/2025
+- [x] **2. Conceitos Fundamentais** ✅ 27/11/2025
+- [x] **3. Instalação e Primeiros Passos** ✅ 27/11/2025
+- [x] **4. Introdução ao SQL** ✅ 27/11/2025
+- [x] **5. Ordenando e Filtrando Dados** ✅ 27/11/2025
+- [x] **6. Funções de Agregação** ✅ 28/11/2025
+- [x] **7. Criando Agrupamentos** ✅ 28/11/2025
+- [x] **8. JOINs** ✅ 29/11/2025
+- [x] **9. Group By + Joins** ✅ 29/11/2025
+- [x] **10. Variáveis** ✅ 30/11/2025
+- [x] **11. Manipulando Strings e Datas** ✅ 30/11/2025
+- [x] **12. Funções Condicionais** ✅ 01/12/2025
+- [x] **13. SQL Views** ✅ 01/12/2025
 - [ ] **14. CRUD**
 - [ ] **15. Subqueries e CTE's**
 - [ ] **16. Loops**
