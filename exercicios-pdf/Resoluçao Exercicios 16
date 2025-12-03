@@ -24,6 +24,15 @@ select @quantidade = Quantidade from (
 		group by Year(HireDate)) as T 
 where Ano = @ano
 
+-- outra opçao
+declare @anoinicio int = 1996,@anofinal int = 2003
+while @anoinicio <= @anofinal
+begin
+	declare @quantidade int = (select count(*) from DimEmployee where year(Hiredate)= @anoinicio)
+	print concat(@quantidade,' contrataçoes em ',@anoinicio)
+	set @anoinicio +=1
+end
+
 
 set @mensagem = convert(varchar,@quantidade) + ' contrataçoes em ' + convert(varchar,@ano)
 print @mensagem
