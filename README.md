@@ -1,7 +1,7 @@
 # 🚀 Documentando minha evolução prática com SQL Server
 
 ## 📊 Progresso em Tempo Real
-![Progresso](https://progress-bar.xyz/56/?title=Progresso&width=400)
+![Progresso](https://progress-bar.xyz/63/?title=Progresso&width=400)
 
 ## 🗓️ Próximos Passos & Metas
 **1ª Quinzena:**
@@ -39,8 +39,8 @@
 - [x] **13. SQL Views** ✅ 01/12/2025
 - [x] **14. CRUD** ✅ 02/12/2025
 - [x] **15. Subqueries e CTE's** ✅ 02/12/2025
-- [ ] **16. Loops**
-- [ ] **17. Window Functions**
+- [x] **16. Loops** ✅ 03/12/2025
+- [x] **17. Window Functions** ✅ 04/12/2025
 - [ ] **18. Otimização de Performance**
 - [ ] **19. Regex - Regular Expressions**
 - [ ] **20. Constraints**
