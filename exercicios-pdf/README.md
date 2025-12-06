@@ -1,7 +1,7 @@
 # 📚 Exercícios Resolvidos - SQL Server
 
 ## 📊 Estatísticas
-- **Total de exercícios:** 95+
+- **Total de exercícios:** 100+
 - **Módulos com exercícios:** 5-17
 - **Habilidades praticadas:** SQL Básico ao Intermediário
 - **Status:** Em desenvolvimento
@@ -73,13 +73,9 @@
 - 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2017%20-%20Fun%C3%A7%C3%B5es%20de%20Janela.pdf)
 - 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2017)
 
-### **Módulo 18: Otimização de Performance** (5 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 18: Otimização de Performance** ✅ 
 
-### **Módulo 19: Regex** (5 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 19: Regex** ✅ 
 
 ### **Módulo 20: Constraints** (5 exercícios) 
 - [📋 Lista de Exercícios]()
@@ -114,5 +110,5 @@
 - [💻 Minha Resolução]()
 ---
 
-**📅 Atualizado em:** 30/11/2024  
+**📅 Atualizado em:** 05/12/2025  
 **🔨 Status:** Exercícios sendo adicionados progressivamente
