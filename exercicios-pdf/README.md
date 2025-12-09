@@ -1,8 +1,8 @@
 # 📚 Exercícios Resolvidos - SQL Server
 
 ## 📊 Estatísticas
-- **Total de exercícios:** 110+
-- **Módulos com exercícios:** 5-23
+- **Total de exercícios:** 115+
+- **Módulos com exercícios:** 5-24
 - **Habilidades praticadas:** SQL Básico ao Intermediário
 - **Status:** Em desenvolvimento
 
