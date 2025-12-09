@@ -101,18 +101,18 @@
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
-### **Módulo 25: Triggers DML** (4 exercícios) 
+### **Módulo 25: Triggers DML** 
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
-### **Módulo 26: Triggers DDL** (3 exercícios) 
+### **Módulo 26: Triggers DDL** 
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
-### **Módulo 27: Pivot Table** (4 exercícios) 
+### **Módulo 27: Pivot Table** 
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 ---
 
-**📅 Atualizado em:** 08/12/2025  
+**📅 Atualizado em:** 09/12/2025  
 **🔨 Status:** Exercícios sendo adicionados progressivamente
