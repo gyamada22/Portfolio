@@ -97,15 +97,16 @@
 - 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2023%20-%20%20Functions.pdf)
 - 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2023)
 
-### **Módulo 24: Procedures** (6 exercícios) 
+### **Módulo 24: Procedures** ✅
+🔹 6 exercícios | Tópicos: Stored Procedures, Parâmetros, Controle de Fluxo
+- 📄 [Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2024%20-%20%20Procedure.pdf)
+- 💻 [Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2024.pdf)
+
+### **Módulo 25: Triggers DML** ✅
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
-### **Módulo 25: Triggers DML** 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
-
-### **Módulo 26: Triggers DDL** 
+### **Módulo 26: Triggers DDL** ✅
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
