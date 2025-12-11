@@ -4,7 +4,7 @@
 
 ## 📁 Meus Repositórios de Especialização
 
-### 🗄️ **SQL Data Engineering** (Domínio Avançado ✅)
+### 🗄️ **SQL Data Engineering** (Domínio Intermediário ✅)
 
 [![SQL Repo](https://img.shields.io/badge/📁_Repositório_Principal-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering)
 [![Exercícios](https://img.shields.io/badge/🔍_110+_Exercícios-00A86B?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering#-exercícios-práticos)
@@ -19,9 +19,8 @@
 - **Estruturas Avançadas**: Views, CTEs, Table Variables, Dynamic SQL, Pivot Tables
 
 #### 🎯 **Prática Aplicada:**
-- **Exercícios Estruturados**: Do básico ao avançado com cenários reais
-- **LeetCode SQL**: 12 problemas Easy resolvidos para entrevistas
-- **Projetos Integrados**: Casos de uso aplicados a Data Engineering
+- **Exercícios Estruturados**: Do básico ao intermediário com cenários reais
+- **LeetCode SQL**: 12 problemas resolvidos e documentados, em progresso
 
 #### 📊 **Progresso:**
 ✅ **Básico & Intermediário:** 100% estudado  
