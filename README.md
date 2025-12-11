@@ -95,19 +95,22 @@ Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientis
 ---
 
 ## 📞 **Contato**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 25px 0;">
+  <a href="mailto:guilhermeyamada@poli.ufrj.br">
+    <img src="https://img.shields.io/badge/guilhermeyamada@poli.ufrj.br-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email UFRJ">
+  </a>
   <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.hackerrank.com/guilhermeyamada1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
   <a href="https://leetcode.com/u/AEASEzj6jW/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </div>
 
 ---
 
-**Progresso atual:** ✅ 110+ exercícios SQL | 🔄 Power BI/Excel | ⏳ Python  
+**Progresso atual:** ✅ 200+ exercícios SQL | ⏳ Power BI/Excel | ⏳ Python  
 *"Consistência > Intensidade. Documentar é aprender duas vezes."*
