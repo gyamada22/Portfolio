@@ -1,64 +1,45 @@
-# 🚀 Documentando minha evolução prática com SQL Server
+#  Portfolio de Engenharia de Dados
 
-## 📊 Progresso em Tempo Real 🚀
-![Progresso](https://progress-bar.xyz/100/?title=Conclusão&width=400&color=4CAF50)
+> Transição de Engenharia de Produção (UFRJ) para Data Science | Documentando jornada técnica publicamente
 
-## 🗓️ Próximos Passos & Metas
-**1ª Quinzena:**
-- 📚 **Iniciar estudos em** Git & GitHub: Fundamentos de versionamento e colaboração em projetos  
-- 🔌 **Iniciar estudos em** APIs REST com Python: Consumo de serviços web e integração de dados
+## 📁 Meus Repositórios de Especialização
 
-**2ª Quinzena:**
-- 🏆 **Desafios LeetCode**: 5-10 exercícios diários de SQL
-- 📜 **Certificações Técnicas**: Validação de habilidades com SQLBolt e HackerRank
-- 🐍 **Revisar Python**: Pandas, SQLAlchemy, NumPy
+### 🗄️ **SQL Data Engineering** (Domínio Avançado ✅)
+[![Ver Repositório](https://img.shields.io/badge/📁_Ver_110+_Exercícios-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/guilhermeyamada/sql-data-engineering)
+**110+ exercícios práticos | 27 módulos completos | Conceitos aplicados**
+- **Fundamentos → Avançado**: Consultas complexas, JOINs, Subqueries, Window Functions
+- **Programabilidade**: Stored Procedures, Functions, Triggers, Transactions, CRUD
+- **Manipulação de Dados**: Strings, datas, agregações, ordenação, filtragem
+- **Estruturas Avançadas**: Views, CTEs, Table Variables, Dynamic SQL, Pivot Tables
+- **Próximos Passos**: Análise de execution plans, otimização com índices, projetos integrados
 
-## 📚 Exercícios Resolvidos
-[**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
+### 📊 **Power BI & Excel Analytics** (Estudando agora)
+[![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/guilhermeyamada/powerbi-excel-analytics)
+Dashboards | DAX | Power Query | Modelagem de dados
 
-- ✅ **110+ exercícios práticos e documentados**
-- 💻 **Código SQL completo** 
-- 📊 **Do básico ao avançado**
+### 🐍 **Python for Data Science** (Próximo)
+[![Ver Repositório](https://img.shields.io/badge/🐍_Python_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/guilhermeyamada/python-data-science)
+Pandas | APIs | Visualização | Machine Learning básico
 
-## 📚 SQL Server - Progresso Diário
-
-- [x] **1. Configuração do Ambiente** ✅ 27/11/2025
-- [x] **2. Conceitos Fundamentais** ✅ 27/11/2025
-- [x] **3. Instalação e Primeiros Passos** ✅ 27/11/2025
-- [x] **4. Introdução ao SQL** ✅ 27/11/2025
-- [x] **5. Ordenando e Filtrando Dados** ✅ 27/11/2025
-- [x] **6. Funções de Agregação** ✅ 28/11/2025
-- [x] **7. Criando Agrupamentos** ✅ 28/11/2025
-- [x] **8. JOINs** ✅ 29/11/2025
-- [x] **9. Group By + Joins** ✅ 29/11/2025
-- [x] **10. Variáveis** ✅ 30/11/2025
-- [x] **11. Manipulando Strings e Datas** ✅ 30/11/2025
-- [x] **12. Funções Condicionais** ✅ 01/12/2025
-- [x] **13. SQL Views** ✅ 01/12/2025
-- [x] **14. CRUD** ✅ 02/12/2025
-- [x] **15. Subqueries e CTE's** ✅ 02/12/2025
-- [x] **16. Loops** ✅ 03/12/2025
-- [x] **17. Window Functions** ✅ 04/12/2025
-- [x] **18. Otimização de Performance** ✅ 05/12/2025
-- [x] **19. Regex - Regular Expressions** ✅ 05/12/2025
-- [x] **20. Constraints** ✅ 05/12/2025
-- [x] **21. Sequences** ✅ 05/12/2025
-- [x] **22. Transactions** ✅ 06/12/2025
-- [x] **23. Functions** ✅ 07/12/2025
-- [x] **24. Procedures** ✅ 08/12/2025
-- [x] **25. Triggers DML** ✅ 09/12/2025
-- [x] **26. Triggers DDL** ✅ 09/12/2025
-- [x] **27. Pivot Table** ✅ 09/12/2025
 ---
 
-## 🎓 Transição de Carreira
+## 📈 **Daily Practice & Rotina de Estudos**
 
-**De Engenheiro de Produção (UFRJ) para Data Scientist**
+### 🎯 **Meta Diária Atual:**
+- **10 exercícios LeetCode** (SQL + Algoritmos)
+- **2 horas Power BI/Excel** (Dashboard building)
+- **3 hora Python** (Pandas/APIs)
+- **Documentação** no GitHub
 
-Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientist**, aplicando minha base analítica e resolução de problemas em um novo contexto tecnológico.
-## 🏆 Certificações Oficiais Microsoft Learn
+### 📅 **Próximos Objetivos:**
+. Completar estudos Power BI e Python
+. Projeto integrado SQL → Power BI → Análise
 
-### 🏅 HackerRank SQL Proficiency
+---
+
+## 🏆 Certificações & Perfis Técnicos
+
+### 📊 **HackerRank SQL Proficiency**
 **5⭐ Gold Level | 710 Points | 81% Completion Rate**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
   <a href="https://www.hackerrank.com/guilhermeyamada1">
@@ -69,20 +50,56 @@ Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientis
   <img src="https://img.shields.io/badge/📈-47/58_Concluídos-4479A1?style=flat-square">
 </div>
 
-### 🎖️ Badges Oficiais - SQL & Azure
+### 🔗 **LeetCode Daily Practice**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="https://leetcode.com/u/AEASEzj6jW/">
+    <img src="https://img.shields.io/badge/👤_Perfil_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/💪_Meta_Diária-10_Exercícios-00B8A3?style=flat-square">
+  <img src="https://img.shields.io/badge/🧠_Foco-SQL_+_Algoritmos-FFA116?style=flat-square">
+</div>
+
+### 📜 **Certificados HackerRank**
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="https://www.hackerrank.com/certificates/942e53240162">
+    <img src="https://img.shields.io/badge/SQL-Intermediário-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Intermediate Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/5eb4b01629bb">
+    <img src="https://img.shields.io/badge/SQL-Básico-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Basic Certificate">
+  </a>
+</div>
+
+### 🎖️ **Badges Oficiais - Microsoft Learn**
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 25px 0;">
 
 [![Modificar dados com T-SQL](https://img.shields.io/badge/📝_Modificar_dados_com_T--SQL-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
 [![Consultar dados com Transact-SQL](https://img.shields.io/badge/📊_Consultar_e_Modificar_Dados-Microsoft_Learn-005BA9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
-
 </div>
-<p align="center"><i>Clique para verificar as credenciais na plataforma oficial da Microsoft Learn</i></p>
 
-### 📜 Certificados de Conclusão HackerRank
+---
+
+## 🎓 Transição de Carreira
+
+**De Engenheiro de Produção (UFRJ) para Data Scientist**
+
+Estou em transição da **Engenharia de Produção (UFRJ)** para **Data Scientist**, aplicando minha base analítica e resolução de problemas em um novo contexto tecnológico.
+
+---
+
+## 📞 **Contato**
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  [![SQL Intermediate](https://img.shields.io/badge/SQL-Intermediário-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/942e53240162)
-  [![SQL Basic](https://img.shields.io/badge/SQL-Básico-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5eb4b01629bb)
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/guilhermeyamada1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/AEASEzj6jW/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
 </div>
 
-</div>
+---
 
+**Progresso atual:** ✅ 110+ exercícios SQL | 🔄 Power BI/Excel | ⏳ Python  
+*"Consistência > Intensidade. Documentar é aprender duas vezes."*
