@@ -28,8 +28,8 @@
 📈 **Próximos:** Análise de execution plans, otimização com índices
 
 ### 📊 **Power BI & Excel Analytics** (Estudando agora)
-[![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/guilhermeyamada/powerbi-excel-analytics)
-**Progresso Excel:** [📊 Status (10% - 64/251 aulas)](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/README.md)
+[![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/README.md)
+**Progresso:** [📊 Excel Status (10% - 64/251 aulas)](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/README.md)
 - Dashboards | DAX | Power Query | Modelagem de dados
 
 ### 🐍 **Python for Data Science** (Próximo)
