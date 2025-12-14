@@ -2,6 +2,28 @@
 
 > Transição de Engenharia de Produção (UFRJ) para Data Science | Documentando jornada técnica publicamente
 
+## 🚀 Foco Atual de Estudos
+
+**Status técnico atual:**
+- 🗄️ **SQL Intermediário consolidado**, com prática contínua
+- 💻 **Treinando diariamente no LeetCode** (SQL + lógica)
+- 📊 **Excel Avançado em andamento** (~40% concluído)
+
+---
+
+## 📈 Daily Practice & Rotina de Estudos
+
+### 🎯 Meta Diária
+- **5~~10 exercícios LeetCode** 
+- **3+ horas de Excel / Power BI**
+- **Documentação diária** da evolução no GitHub
+
+### 📅 Próximos Objetivos
+- Finalizar **Excel Avançado**
+- Iniciar e concluir **Power BI**
+- Revisar **Python para análise de dados**
+- Projeto integrado **SQL → Power BI → Análise**
+
 ## 📁 Meus Repositórios de Especialização
 
 ### 🗄️ **SQL Data Engineering** (Domínio Intermediário ✅)
@@ -34,19 +56,6 @@
 ### 🐍 **Python for Data Science** (Próximo)
 [![Ver Repositório](https://img.shields.io/badge/🐍_Python_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/guilhermeyamada/python-data-science)
 - Pandas | APIs | Visualização | Machine Learning básico
-
----
-
-## 📈 **Daily Practice & Rotina de Estudos**
-
-### 🎯 **Meta Diária Atual:**
-- **10 exercícios LeetCode** (SQL + Algoritmos)
-- **3 horas Power BI/Excel** (Dashboard building)
-- **Documentação** no GitHub
-
-### 📅 **Próximos Objetivos:**
-. Completar estudos Power BI e Python
-. Projeto integrado SQL → Power BI → Análise
 
 ---
 
