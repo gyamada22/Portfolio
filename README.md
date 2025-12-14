@@ -27,9 +27,8 @@
 🚀 **Avançado:** Em progresso  
 📈 **Próximos:** Análise de execution plans, otimização com índices
 
-### 📊 **Power BI & Excel Analytics** (Estudando agora)
+### 📊 **Power BI & Excel Analytics** (Excel: **102/251 aulas concluídas** (**~41%**))
 [![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/README.md)
-**Progresso:** 📊 Excel — **102/251 aulas concluídas** (**~41%**)
 - Dashboards | DAX | Power Query | Modelagem de dados
 
 ### 🐍 **Python for Data Science** (Próximo)
