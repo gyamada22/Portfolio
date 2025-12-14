@@ -61,50 +61,31 @@
 
 ## 🏆 Certificações & Perfis Técnicos
 
-### 📊 **HackerRank SQL Proficiency**
-**5⭐ Gold Level | 710 Points | 81% Completion Rate**
+**HackerRank — SQL**  
+- Gold Level (5★)  
+- 47/58 desafios concluídos  
+- SQL aplicado ao mercado  
+🔗 https://www.hackerrank.com/guilhermeyamada1
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
-  <!-- APENAS ESTE É CLICÁVEL -->
-  <div>
-    <a href="https://www.hackerrank.com/guilhermeyamada1">
-      <img src="https://img.shields.io/badge/👤_Perfil_Completo-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-    </a>
-  </div>
-  
-  <!-- ESTES SÃO APENAS IMAGENS (NÃO CLICÁVEIS) -->
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Estrelas-FFD700?style=flat-square">
-    <img src="https://img.shields.io/badge/🏅-Nível_Ouro-FFA500?style=flat-square">
-    <img src="https://img.shields.io/badge/📊-47/58_Concluídos-4479A1?style=flat-square">
-  </div>
-</div>
+**LeetCode — Daily Practice**  
+- Prática diária documentada aqui
+- Meta: 5 exercícios/dia  
+- Foco em SQL + Algoritmos  
+🔗 https://leetcode.com/u/AEASEzj6jW/
 
-### 🔗 **LeetCode Daily Practice**
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://leetcode.com/u/AEASEzj6jW/">
-    <img src="https://img.shields.io/badge/👤_Perfil_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/💪_Meta_Diária-10_Exercícios-00B8A3?style=flat-square">
-  <img src="https://img.shields.io/badge/🧠_Foco-SQL_+_Algoritmos-FFA116?style=flat-square">
-</div>
+---
 
-### 📜 **Certificados HackerRank**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://www.hackerrank.com/certificates/942e53240162">
-    <img src="https://img.shields.io/badge/SQL-Intermediário-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Intermediate Certificate">
-  </a>
-  <a href="https://www.hackerrank.com/certificates/5eb4b01629bb">
-    <img src="https://img.shields.io/badge/SQL-Básico-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Basic Certificate">
-  </a>
-</div>
+### 📜 Certificações Oficiais — HackerRank
 
-### 🎖️ **Badges Oficiais - Microsoft Learn**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 25px 0;">
+[![SQL Intermediate](https://img.shields.io/badge/SQL-Intermediário-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/942e53240162)
+[![SQL Basic](https://img.shields.io/badge/SQL-Básico-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5eb4b01629bb)
+
+---
+
+### 🎖️ Badges Oficiais — Microsoft Learn
 
 [![Modificar dados com T-SQL](https://img.shields.io/badge/📝_Modificar_dados_com_T--SQL-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
-[![Consultar dados com Transact-SQL](https://img.shields.io/badge/📊_Consultar_e_Modificar_Dados-Microsoft_Learn-005BA9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
-</div>
+[![Consultar dados com Transact-SQL](https://img.shields.io/badge/📊_Consultar_dados_com_T--SQL-Microsoft_Learn-005BA9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
 
 ---
 
@@ -128,4 +109,5 @@
 
 **Progresso atual:** ✅ 200+ exercícios SQL | ⏳ Power BI/Excel | ⏳ Python  
 *"Consistência > Intensidade. Documentar é aprender duas vezes."*
+
 
