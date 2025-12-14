@@ -14,7 +14,7 @@
 ## 📈 Daily Practice & Rotina de Estudos
 
 ### 🎯 Meta Diária
-- **5~~10 exercícios LeetCode** 
+- **5~10 exercícios LeetCode** 
 - **3+ horas de Excel / Power BI**
 - **Documentação diária** da evolução no GitHub
 
