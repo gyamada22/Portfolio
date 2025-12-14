@@ -31,6 +31,13 @@
 [![SQL Server](https://img.shields.io/badge/📁_Repositório_SQL_Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering/blob/main/README.md)
 [![Exercícios](https://img.shields.io/badge/🔍_110+_Exercícios-00A86B?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/exercicios-pdf/README.md)
 [![LeetCode](https://img.shields.io/badge/💻_LeetCode_SQL-FF6B35?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+### 🗄️ SQL Data Engineering (Domínio Intermediário ✅)
+
+[![Repo](https://img.shields.io/badge/📁_SQL_Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/gyamada22/sql-data-engineering)
+![Exercícios](https://img.shields.io/badge/110+_Exercícios-00A86B?style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/LeetCode_SQL-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AEASEzj6jW/)
+
+
 
 **✅ 27 módulos completos | 110+ exercícios | 12+ LeetCode problems**
 
@@ -97,17 +104,8 @@
   <a href="https://linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.hackerrank.com/guilhermeyamada1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://leetcode.com/u/AEASEzj6jW/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
 </div>
 
 ---
 
-**Progresso atual:** ✅ 200+ exercícios SQL | ⏳ Power BI/Excel | ⏳ Python  
 *"Consistência > Intensidade. Documentar é aprender duas vezes."*
-
-
