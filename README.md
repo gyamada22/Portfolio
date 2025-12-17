@@ -7,7 +7,7 @@
 **Status técnico atual:**
 - 🗄️ **SQL Intermediário consolidado**, com prática contínua
 - 💻 **Treinando diariamente no LeetCode** (SQL + lógica)
-- 📈 **Excel Avançado em andamento** (~40% concluído)
+- 📈 **Excel Avançado em andamento** (~55% concluído)
 
 ---
 
