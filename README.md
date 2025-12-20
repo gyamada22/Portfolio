@@ -1,13 +1,20 @@
-#  Portfolio de Engenharia de Dados
+# Data Analytics → Data Science
 
-> Transição de Engenharia de Produção (UFRJ) para Data Science | Documentando jornada técnica publicamente
+> Engenheiro de Produção (UFRJ) em transição para Data Scientist | Construindo expertise técnica através de prática documentada e projetos públicos
 
-## 🚀 Foco Atual de Estudos
+## 📊 **Destaques Técnicos**
 
-**Status técnico atual:**
-- 🗄️ **SQL Intermediário consolidado**, com prática contínua
-- 💻 **Treinando diariamente no LeetCode** (SQL + lógica)
-- 📈 **Excel Avançado em andamento** (~70% concluído)
+### 🗄️ **SQL Specialist**
+- **40+ problemas LeetCode resolvidos** com soluções documentadas em: [SOLUTIONS.md](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+- **2.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **HackerRank Gold** (5★ SQL, 48/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
+- **Aprendizado 100% documentado** em repositório público: [SQL Data Engineering](https://github.com/gyamada22/sql-data-engineering)
+- **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
+
+### 📈 **Business Intelligence**
+- **Excel Avançado** (80% concluído - 201/251 aulas)
+- **Power BI** em andamento (DAX, Power Query, Modelagem)
+- Foco em análise de dados para tomada de decisão
 
 ---
 
