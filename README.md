@@ -82,30 +82,26 @@
 
 ---
 
-### 📜 Certificações Oficiais — HackerRank
+## 🏆 **Certificações & Conquistas**
 
-[![SQL Intermediate](https://img.shields.io/badge/SQL-Intermediário-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/942e53240162)
-[![SQL Basic](https://img.shields.io/badge/SQL-Básico-00B4D8?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5eb4b01629bb)
+### HackerRank
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/942e53240162)
+- [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
+- **Gold Badge SQL** (5★, top 5% da plataforma)
 
----
+### 🎖️ Microsoft Learn — Badges Oficiais
+- [Modificar dados com T-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
+- [Consultar dados com Transact-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
 
-### 🎖️ Badges Oficiais — Microsoft Learn
-
-[![Modificar dados com T-SQL](https://img.shields.io/badge/📝_Modificar_dados_com_T--SQL-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
-[![Consultar dados com Transact-SQL](https://img.shields.io/badge/📊_Consultar_dados_com_T--SQL-Microsoft_Learn-005BA9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
-
----
-
-## 📞 **Contato**
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 25px 0;">
-  <a href="mailto:guilhermeyamada@poli.ufrj.br">
-    <img src="https://img.shields.io/badge/guilhermeyamada@poli.ufrj.br-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email UFRJ">
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
 
 ---
 
-*"Consistência > Intensidade. Documentar é aprender duas vezes."*
+## 📬 **Contato & Conecte-se**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermeyamada@poli.ufrj.br)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gyamada22/)
+
+---
+
+**"Documentar é aprender duas vezes. Cada solução publicada solidifica o conhecimento e ajuda outros na mesma jornada."**
