@@ -42,7 +42,8 @@
 
 #### 🎯 **Prática Aplicada:**
 - **Exercícios Estruturados**: Do básico ao intermediário com cenários reais
-- **LeetCode SQL**: 17 problemas resolvidos e documentados, em progresso
+- **LeetCode SQL**: 40 problemas resolvidos e documentados, em progresso
+
 
 ### 📊 **Power BI & Excel Analytics** (Excel: **201/251 aulas concluídas** (**~70%**))
 [![Ver Repositório](https://img.shields.io/badge/📈_Power_BI_&_Excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/README.md)
@@ -56,17 +57,21 @@
 
 ## 🏆 Certificações & Perfis Técnicos
 
+**🧠 SQL Problem Solving — LeetCode**
+
+- 📌 +40 problemas resolvidos (SQL)
+- 📈 Quase 2.000 visualizações em soluções publicadas
+- 🔥 Streak ativo com prática diária
+- 🗂️ Soluções documentadas com explicação clara e código limpo
+
+🔗 LeetCode Profile: https://leetcode.com/u/gyamada22/
+🔗 Repositório de soluções: https://github.com/gyamada22/sql-data-engineering
+
 **HackerRank — SQL**  
 - Gold Level (5★)  
 - 48/58 desafios concluídos  
 - SQL aplicado ao mercado  
 🔗 https://www.hackerrank.com/guilhermeyamada1
-
-**LeetCode — Daily Practice**  
-- Prática diária documentada aqui
-- Meta: 3 - 5 exercícios/dia  
-- Foco em SQL + Algoritmos  
-🔗 [https://leetcode.com/u/AEASEzj6jW/](https://leetcode.com/u/gyamada22/)
 
 ---
 
