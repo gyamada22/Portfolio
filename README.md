@@ -59,8 +59,7 @@
 - **Gold Badge SQL** (5★, top 5% da plataforma)
 
 ### 🎖️ Microsoft Learn — Badges Oficiais
-- [Modificar dados com T-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/nmebjgqf)
-- [Consultar dados com Transact-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
+- Microsoft Learn — Query and Modify Data with Transact-SQL ([Learning Path completo](https://learn.microsoft.com/api/achievements/share/en-us/GuilhermeYamada-9069/82M4B5MW?sharingId=A87626533FFE893C))
 
 
 ---
