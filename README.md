@@ -23,7 +23,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 📊 Job Market Analysis (Em andamento)
+### 📊 Job Market Analysis
 - **Tecnologias:** SQL | Power BI | Análise de Dados
 - **Descrição:** Análise do mercado de trabalho em dados para identificar skills demandadas, tendências salariais e gaps de competência.
 - **Status:** 🔄 Em desenvolvimento | [Ver repositório](https://github.com/gyamada22/job-market-analysis)
