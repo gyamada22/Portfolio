@@ -4,7 +4,7 @@
 
 ## 📊 **Destaques Técnicos**
 
-### 🗄️ **SQL Specialist**
+### 🗄️ **Advanced SQL for Analytics**
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
 - **+40 problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 - **3.600+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
