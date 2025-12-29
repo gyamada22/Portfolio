@@ -39,6 +39,23 @@
 - **Pipeline:** Coleta → Limpeza → Análise → Dashboards
 - **Status:** 🔄 Em desenvolvimento | [Ver repositório](https://github.com/gyamada22/job-market-analysis)
 
+### Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
+
+- **Foco:** Construção de um pipeline completo de **Data Cleaning e ETL** a partir de dados reais e inconsistentes sobre layoffs no setor de tecnologia.
+- **Objetivo:** Transformar dados brutos em um dataset **confiável, padronizado e pronto para análises analíticas e BI**, simulando um cenário próximo ao ambiente produtivo.
+- **Stack:** Snowflake | SQL Avançado (CTEs, Window Functions, Defensive SQL)
+- **Arquitetura:** Medallion Architecture (Bronze → Silver → Gold)
+
+**Principais entregas técnicas:**
+- Padronização de nulos, tipagem defensiva e normalização de texto  
+- Aplicação de regras de negócio e correção de inconsistências de domínio  
+- Deduplicação determinística com `ROW_NUMBER()`  
+- Pipeline reprodutível, idempotente e auditável  
+
+🔗 **Repositório:**  
+https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md
+
+
 ---
 
 ## 📈 Prática Contínua
