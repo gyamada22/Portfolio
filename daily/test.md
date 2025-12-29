@@ -54,6 +54,8 @@ https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_
 
 ---
 
+
+
 ## 🏆 **Certificações & Conquistas**
 
 ### HackerRank
