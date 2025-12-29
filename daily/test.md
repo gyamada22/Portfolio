@@ -5,9 +5,9 @@
 ## 📊 **Destaques Técnicos**
 
 ### 🗄️ **SQL Specialist**
-- **40+ problemas LeetCode resolvidos** com soluções documentadas em: [SOLUTIONS.md](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-- **2.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
-- **HackerRank Gold** (5★ SQL, 48/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
+- **55+ problemas LeetCode resolvidos** com soluções documentadas em: [SOLUTIONS.md](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+- **6.500+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **HackerRank Gold** (5★ SQL, 49/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
 - **Aprendizado 100% documentado** em repositório público: [SQL Data Engineering](https://github.com/gyamada22/sql-data-engineering)
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
 
@@ -18,23 +18,24 @@
 
 ---
 
-## 🚀 **Projetos em Destaque**
+## 🚀 Projetos em Destaque
 
-### [📊 SQL Data Engineering Repository](https://github.com/gyamada22/sql-data-engineering)
-**Status: Ativo | 40+ soluções documentadas**
+###  Job Market Analysis
+- **Foco:** Análise do mercado brasileiro de dados a partir de vagas reais de recrutamento (LinkedIn), com análise inicial focada no Brasil e posterior comparação com dados internacionais, para mapear skills demandadas, tendências e gaps de competências entre níveis de senioridade (estágio a sênior), apoiando decisões de carreira e estudo.
+- **Stack:** Excel | Python | SQL | Power BI
+- **Pipeline:** Coleta → Limpeza → Análise → Dashboards
+- **Status:** 🔄 Em desenvolvimento | [Ver repositório](https://github.com/gyamada22/job-market-analysis)
 
-Coleção organizada de soluções SQL para problemas reais de negócio:
-- **Product Sales Analysis III** | **Game Play Analysis IV** | **Monthly Transactions I**
-- Cada solução inclui: Explicação da lógica + Complexidade (Big O) + Aprendizados
-- Padrões identificados em 110+ exercícios estruturados
+### Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
 
-### [📈 Power BI & Excel Analytics](https://github.com/gyamada22/powerbi-excel-analytics)
-**Status: Em desenvolvimento | ~70% concluído**
+- **Foco:** Construção de um pipeline completo de **Data Cleaning e ETL** a partir de dados reais e inconsistentes sobre layoffs no setor de tecnologia.
+- **Objetivo:** Transformar dados brutos em um dataset **confiável, padronizado e pronto para análises analíticas e BI**, simulando um cenário próximo ao ambiente produtivo.
+- **Stack:** Snowflake | SQL Avançado (CTEs, Window Functions, Defensive SQL)
+- **Arquitetura:** Medallion Architecture (Bronze → Silver → Gold)
 
-Transformando dados brutos em insights acionáveis:
-- Dashboards interativos com KPIs de negócio
-- Automação de relatórios com Power Query
-- Modelagem dimensional para análise
+🔗 **Repositório:**  
+https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md
+
 
 ---
 
