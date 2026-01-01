@@ -31,13 +31,31 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-###  Job Market Analysis
-- **Foco:** Análise do mercado brasileiro de dados a partir de vagas reais de recrutamento (LinkedIn), com análise inicial focada no Brasil e posterior comparação com dados internacionais, para mapear skills demandadas, tendências e gaps de competências entre níveis de senioridade (estágio a sênior), apoiando decisões de carreira e estudo.
-- **Stack:** Excel | Python | SQL | Power BI
-- **Pipeline:** Coleta → Limpeza → Análise → Dashboards
-- **Status:** 🔄 Em desenvolvimento | [Ver repositório](https://github.com/gyamada22/job-market-analysis)
+### 📊 Job Market Analysis — Modern Data Analytics Pipeline
+
+**Foco**  
+Análise do mercado brasileiro de dados a partir de **vagas reais de recrutamento (LinkedIn)**, com extração estruturada de informações para identificar **skills demandadas, tendências de mercado e gaps de competências** entre níveis de senioridade (Júnior, Pleno e Sênior).  
+O projeto também contempla **comparação futura com dados internacionais**, visando antecipar tendências globais que podem impactar o mercado brasileiro.
+
+**Objetivo**  
+Transformar dados não estruturados de vagas em **insights acionáveis**, apoiando decisões de carreira, planejamento de estudos e a compreensão da evolução técnica exigida pelo mercado de dados.
+
+**Stack**  
+Python (ETL) | Snowflake (Data Warehouse) | SQL Avançado | dbt (Modelagem Analítica) | Power BI (Dashboards) | Docker | Git/GitHub
+
+**Arquitetura & Pipeline**  
+Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowflake → Modelagem analítica com **dbt (Medallion: Bronze, Silver, Gold)** → Dashboards interativos no Power BI → Documentação técnica
+
+**Destaques Técnicos**
+- Implementação de **Modern Data Stack**, com separação clara entre ingestão, transformação e consumo  
+- Modelagem analítica orientada a **métricas e senioridade**  
+- Ambiente **conteinerizado com Docker**, garantindo reprodutibilidade  
+- Pipeline alinhado a **boas práticas de engenharia de dados e analytics engineering**
+
+🔗 **Repositório:**  
+https://github.com/gyamada22/job-market-analysis
 
 ### Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
 
