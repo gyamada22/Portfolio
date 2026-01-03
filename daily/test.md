@@ -47,7 +47,8 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 🔗 **Repositório:**  
 [Analise Mercado de Dados - Readme](https://github.com/gyamada22/Analise-Mercado-de-Dados/blob/main/README.md)
 
-### Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
+
+### 📊 Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
 
 - **Foco:** Construção de um pipeline completo de **Data Cleaning e ETL** a partir de dados reais e inconsistentes sobre layoffs no setor de tecnologia.
 - **Objetivo:** Transformar dados brutos em um dataset **confiável, padronizado e pronto para análises analíticas e BI**, simulando um cenário próximo ao ambiente produtivo.
