@@ -17,7 +17,7 @@
 > **Aprendizado 100% documentado** em repositório público: [Excel Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics/blob/main/README.md)
 - **Power BI**(DAX, Power Query, Modelagem)
 > **Aprendizado 100% documentado** em repositório público: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/README.md)
-- Foco em análise de dados para tomada de decisão
+
 
 ---
 
