@@ -6,7 +6,7 @@
 > Construindo expertise técnica através de prática documentada e projetos públicos
 
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 
 ### **Linguagens & Querying**  
 - SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 **Destaques Técnicos**
+##  **Destaques Técnicos**
 
 ###  **SQL Specialist**
 - **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas em [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
