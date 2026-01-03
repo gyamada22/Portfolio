@@ -23,7 +23,7 @@
 
 ##  Projetos em Destaque
 
-###  Análise do Mercado de Dados — Modern Data Analytics Pipeline
+### 📊 Análise do Mercado de Dados — Modern Data Analytics Pipeline
 
 **Foco**  
 Análise do mercado brasileiro de dados a partir de **vagas reais de recrutamento (LinkedIn)**, com extração estruturada de informações para identificar **skills demandadas, tendências de mercado e gaps de competências** entre níveis de senioridade (Júnior, Pleno e Sênior).  
