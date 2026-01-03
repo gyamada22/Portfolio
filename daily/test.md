@@ -1,16 +1,41 @@
-# Portfólio — Data Analytics
+
+
+# Portfólio — Data & Analytics
 
 > Engenheiro de Produção (UFRJ) em transição para Data Engineer.
 > 
 > Construindo expertise técnica através de prática documentada e projetos públicos
 
+
+## 🛠️ **Tech Stack**
+
+**Linguagens & Querying**  
+- SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake  
+- Python (ETL, análise): Pandas, requests, BeautifulSoup  
+
+**Ferramentas de Data Engineering**  
+- dbt (modelagem analítica) | Snowflake (Data Warehouse)  
+- Docker (conteinerização) | Git/GitHub (controle de versão)  
+
+**BI & Visualização**  
+- Power BI (DAX, Power Query, Modelagem)  
+- Excel Avançado (Power Query, Power Pivot, DAX)  
+
+**Metodologias**  
+- Medallion Architecture (Bronze-Silver-Gold)  
+- Modern Data Stack | Data Pipeline Design
+
+---
+
 ## 📊 **Destaques Técnicos**
 
 ###  **SQL Specialist**
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
-- **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-- **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode
 - **HackerRank Gold** 5★ SQL: [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
+> **Soluções Leetcode documentadas em:** [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+> 
 > **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
 ### **Excel Avançado**
@@ -84,23 +109,13 @@
 ### HackerRank
 - [SQL (Intermediate)](https://www.hackerrank.com/certificates/942e53240162)
 - [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
-- **Gold Badge SQL** (5★, top 5% da plataforma)
+- **Gold Badge SQL** - 5★ 57/58 Challenges solved
 
-### IBM Data Fundamentals 
-
-- [Data Fundamentals - Credly](https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url)
-
-<a href="https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" width="150" alt="IBM Data Fundamentals Badge">
-</a>
-
-
-### 🎖️ Microsoft Learn 
-- [Consultar dados com Transact-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
-
+| [IBM Fundamentals](https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url) | [Microsoft T-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw) |
+| :---: | :---: | 
+| <a href="https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" width="100" alt="IBM Data Fundamentals"></a> | <a href="https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="100" alt="Microsoft T-SQL"></a> |
 
 ---
-
 ## 📬 **Contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
