@@ -48,7 +48,7 @@
 - Transformar dados não estruturados de vagas em **insights acionáveis**, apoiando decisões de carreira, planejamento de estudos e a compreensão da evolução técnica exigida pelo mercado de dados.
 
 **Stack**  
-- Python (ETL) | Snowflake (Data Warehouse) | SQL Avançado | dbt (Modelagem Analítica) | Power BI (Dashboards) | Docker | Git/GitHub
+- Python (ETL) | Snowflake (Data Warehouse) | SQL | dbt (Modelagem Analítica) | Power BI (Dashboards) | Docker | Git/GitHub
 
 **Arquitetura & Pipeline**  
 - Ambiente conteinerizado (Docker) → Coleta assistida por IA (Prompt Engineering) → Limpeza e padronização (Python) → Carga no Snowflake → Modelagem analítica com dbt (Medallion: Bronze, Silver, Gold) → Dashboards interativos no Power BI → Documentação técnica
