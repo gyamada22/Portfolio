@@ -9,7 +9,7 @@
 ##  **Tech Stack**
 
 ### **Linguagens & Querying**
-- SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake
+- SQL (Avançado): Window Functions, CTEs, Otimização
 - Python: **Bibliotecas Python** (Pandas, NumPy, Seaborn)
 ### **Ferramentas de Data Engineering**
 - dbt (Modelagem analítica) | Snowflake (Data Warehouse)
