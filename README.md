@@ -1,7 +1,7 @@
 
 # Portfólio — Data & Analytics
 
-> Engenheiro de Produção (UFRJ) em transição para Data Engineer.
+> Engenheiro de Produção (UFRJ) em transição para Data Engineer
 > 
 > Construindo expertise técnica através de prática documentada e projetos públicos
 
